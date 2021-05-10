@@ -1,0 +1,16 @@
+El siguiente proyecto es una sencilla página web a través de los conocimientos
+básicos obtenidos de HTML y CSS.
+
+El proyecto será colaborativo para poner a prueba los conocimientos adquiridos de
+Git y Github.
+
+
+El proyecto será construido por un equipo que desde sus equipos de cómputo colaborarán
+en sus respectivas ramas.
+
+El personal involucrado son:
+Omar Quiroz <smark.paradise@gmail.com>      Líder de Equipo y propietario de proyecto.
+Elli Chococo <mvchococo@gmail.com>          Student Developer Jr y Colaboradora.
+Miki Chokini <miki.chokini@gmail.com>       Student Developer Jr y Colaborador.
+
+
