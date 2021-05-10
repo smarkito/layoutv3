@@ -6,10 +6,11 @@
 html {
     font-size: 62.5%;
 }
-header h1 {
-    
-    padding: 1rem;
-    font-size: 3rem;
-    color: black;
+h6 {
+    font-size: 2rem;
+}
+.navContainer {
+    width: 100vw;
+    height: 20vh;
     background-color: grey;
 }
