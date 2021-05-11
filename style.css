@@ -53,3 +53,8 @@ html {
     color: white;
     text-align: center;
 }
+.mainContainer {
+    width: 100vw;
+    height: 50vh;
+    background-color: blue;
+}
