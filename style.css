@@ -38,7 +38,7 @@ html {
 }
 .navContainer {
     width: 100vw;
-    height: 8vh;
+    height: 6vh;
     padding: .5rem;
     background-color:#EF5350 ;
     display: inline-flex;
@@ -55,6 +55,31 @@ html {
 }
 .mainContainer {
     width: 100vw;
-    height: 50vh;
-    background-color: blue;
+    height: 55vh;
+    background-color: #7b68ee;
+    display: flex;
+}
+.asideContainer {
+    background-color: #FF6347;
+    height: 55vh;
+    width: 20vw;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.asideBox {
+    width: 17.5rem;
+    height: 10rem;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 2.4rem;
+    color: #F5FFFA;
+    border: 1px solid white;
+    background-color: #FF7F50;
+    border-radius: 1rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
 }
