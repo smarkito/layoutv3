@@ -60,7 +60,7 @@ html {
     display: flex;
 }
 .asideContainer {
-    background-color: #FF6347;
+    background-color: #DC143C;
     height: 55vh;
     width: 20vw;
     padding: .5rem;
@@ -74,12 +74,18 @@ html {
     margin: 1rem;
     padding: 1rem;
     font-size: 2.4rem;
-    color: #F5FFFA;
-    border: 1px solid white;
+    color: #000000;
+    border: 1px solid #A52A2A;
     background-color: #FF7F50;
     border-radius: 1rem;
     display:flex;
     justify-content: center;
     align-items: center;
-    
+}
+.sectionContainer {
+    padding:2rem;
+}
+.sectionP {
+    font-size: 2.4rem;
+    color: white;
 }
